@@ -31,3 +31,9 @@ header {
 .header-image {
     background: var(--green);
 }
+
+header h1 {
+    font-size: 72px;
+    color: black;
+    font-weight: 600;
+}
