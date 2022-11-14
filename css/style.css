@@ -29,7 +29,7 @@ header {
 }
 
 .header-image {
-    background: var(--green);
+    background: url(../images/composition.png) cover;
 }
 
 header h1 {
