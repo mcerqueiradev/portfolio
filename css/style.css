@@ -26,13 +26,9 @@ header {
 #header-wrapper {
     width: 100vh;
     height: 100vh;
-    background: var(--green);
     display: inline-block;
 }
 
-#header {
-    width: 100vh;
-    height: 100vh;
-    background: white;
-    display: inline-block;
+.header-image {
+    background: var(--green);
 }
