@@ -12,8 +12,19 @@
     --beige: #efd6ac;
 }
 
+body {
+    font-family: "Poppins", sans-serif;
+}
+
 header {
     width: 100vw;
     height: 100vh;
     background: var(--blue);
+    position: relative;
+}
+
+#header-wrapper {
+    width: 100vh;
+    height: 100vh;
+    background: var(--green);
 }
