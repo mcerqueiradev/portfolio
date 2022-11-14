@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+:root {
+    --green: #183a37;
+    --blue: #04151f;
+    --orange: #c44900;
+    --purple: #432534;
+    --beige: #efd6ac;
+}
+
+header {
+    width: 100vw;
+    height: 100vh;
+    background: var(--blue);
+}
