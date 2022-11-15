@@ -29,7 +29,8 @@ header {
 }
 
 .header-image {
-    background: url(./images/composition.png) cover;
+    background: url(../images/composition.png);
+    background-size: cover;
 }
 
 header h1 {
